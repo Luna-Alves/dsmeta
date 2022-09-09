@@ -424,7 +424,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:^18.0.17":
+"@types/react@npm:*, @types/react@npm:^18.0.18":
   version: 18.0.18
   resolution: "@types/react@npm:18.0.18"
   dependencies:
@@ -977,7 +977,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "frontend@workspace:."
   dependencies:
-    "@types/react": ^18.0.17
+    "@types/react": ^18.0.18
     "@types/react-dom": ^18.0.6
     "@vitejs/plugin-react": ^2.1.0
     react: ^18.2.0
